@@ -1,0 +1,1 @@
+-force-include-file "Frequency.c";"c:\Users\Teodora\Desktop\APD_proiect\CVI\Frequency.c" -force-include-file "Frequency.h";"c:\Users\Teodora\Desktop\APD_proiect\CVI\Frequency.h" -force-include-file "proiect1_apd.c";"c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c" -force-include-file "proiect1_apd.h";"c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.h" 

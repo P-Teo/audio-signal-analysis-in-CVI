@@ -1,0 +1,55 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c:26:5"
+
+[OneMainPanel]
+Class="Function"
+Prototype="int OneMainPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c:41:17"
+
+[OnLoadButtonCB]
+Class="Function"
+Prototype="int OnLoadButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c:63:17"
+
+[AplicaFiltrare]
+Class="Function"
+Prototype="int AplicaFiltrare(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c:167:17"
+
+[RingFiltruChanged]
+Class="Function"
+Prototype="int RingFiltruChanged(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c:244:17"
+
+[PlotInterval]
+Class="Function"
+Prototype="void PlotInterval(int panel);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c:275:6"
+
+[NextButtonCB]
+Class="Function"
+Prototype="int NextButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c:360:17"
+
+[PrevButtonCB]
+Class="Function"
+Prototype="int PrevButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c:391:17"
+
+[ActivareRingChanged]
+Class="Function"
+Prototype="int ActivareRingChanged(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c:423:17"
+
+[OnEnvelopeButtonCB]
+Class="Function"
+Prototype="int OnEnvelopeButtonCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c:470:17"
+
+[OnSwitchPanelCB]
+Class="Function"
+Prototype="int OnSwitchPanelCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\proiect1_apd.c:551:17"
+

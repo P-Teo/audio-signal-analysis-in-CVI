@@ -1,0 +1,20 @@
+[OnFreqPanelCB]
+Class="Function"
+Prototype="int OnFreqPanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\Frequency.c:36:17"
+
+[OnTimer]
+Class="Function"
+Prototype="int OnTimer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\Frequency.c:58:17"
+
+[OnStart]
+Class="Function"
+Prototype="int OnStart(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\Frequency.c:152:17"
+
+[Save_graph]
+Class="Function"
+Prototype="int Save_graph(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="c:\Users\Teodora\Desktop\APD_proiect\CVI\Frequency.c:175:17"
+
