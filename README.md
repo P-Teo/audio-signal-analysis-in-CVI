@@ -122,7 +122,7 @@ Filtre band-pass (900 Hz – 1100 Hz):
 
 
 ---
+## 🧾 *Licență*
 
-## 🧾 *License*
+Acest proiect a fost realizat în **scopuri educaționale**.
 
-This project was created for **educational purposes**. 
