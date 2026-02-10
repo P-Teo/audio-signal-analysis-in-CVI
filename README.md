@@ -119,3 +119,10 @@ Filtre band-pass (900 Hz – 1100 Hz):
 3. Încarcă fișier WAV folosind **Load**  
 4. Aplică filtre și navighează prin semnal  
 5. Vizualizează analiza în **timp și frecvență**
+
+
+---
+
+## 🧾 *License*
+
+This project was created for **educational purposes**. 
